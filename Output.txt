@@ -1,0 +1,48 @@
+After the LL has been initialized...
+There are now 0 items with an allocation count of 1
+After data has been placed at the front of the LL...
+There are now 7 items with an allocation count of 8
+Head==> [0] = 3 task3B
+        [1] = 4 task4B
+        [2] = 4 task4A
+        [3] = 2 task2B
+        [4] = 3 task3A
+        [5] = 2 task2A
+Tail==> [6] = 1 task1
+After the LL has been deleted...
+There are now 0 items with an allocation count of 0
+After the LL has been initialized...
+There are now 0 items with an allocation count of 1
+After data items have been added at the end of the LL...
+There are now 7 items with an allocation count of 8
+Head==> [0] = 1 task1
+        [1] = 2 task2A
+        [2] = 3 task3A
+        [3] = 2 task2B
+        [4] = 4 task4A
+        [5] = 4 task4B
+Tail==> [6] = 3 task3B
+After data has been swapped in the LL...
+There are now 7 items with an allocation count of 8
+Head==> [0] = 3 task3B
+        [1] = 4 task4B
+        [2] = 4 task4A
+        [3] = 2 task2B
+        [4] = 3 task3A
+        [5] = 2 task2A
+Tail==> [6] = 1 task1
+A data item has been removed from the front of the LL..
+the UserData contained 3 task3B
+The allocation count is now 7
+A data item has been removed from the front of the LL..
+the UserData contained 4 task4B
+The allocation count is now 6
+After data has been removed from the LL..
+There are now 5 items with an allocation count of 6
+Head==> [0] = 4 task4A
+        [1] = 2 task2B
+        [2] = 3 task3A
+        [3] = 2 task2A
+Tail==> [4] = 1 task1
+After the LL has been deleted...
+There are now 0 items with an allocation count of 0
